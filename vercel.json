@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "functions": {
+    "api/nuke.js": { "maxDuration": 60 }
+  }
+}
